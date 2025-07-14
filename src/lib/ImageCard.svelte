@@ -16,11 +16,13 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
     text-align: center;
+    transition: transform 0.2s ease-in-out;
   }
 
   .card img {
     width: 100%;
     height: auto;
+    border-radius: 5px;
   }
 
   .card-content {
@@ -39,13 +41,11 @@
     margin: 0;
   }
 
-  .card-container {
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  overflow-x: auto; 
-  padding: 10px 0;
-}
+  .card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+
 </style>
 
 <div class="card">
