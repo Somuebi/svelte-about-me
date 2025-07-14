@@ -16,7 +16,7 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
     text-align: center;
-    transition: transform 0.2s ease-in-out;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   }
 
   .card img {
@@ -44,6 +44,7 @@
   .card:hover {
     transform: scale(1.05);
     cursor: pointer;
+    box-shadow: 0 0 20px 5px rgba(255, 255, 255, 0.6);
   }
 
 </style>
