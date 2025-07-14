@@ -8,7 +8,7 @@
 
 <style>
   .card {
-    background-color: #fff;
+    background-color: purple;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
