@@ -38,6 +38,14 @@
     color: #f7f5f5;
     margin: 0;
   }
+
+  .card-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  overflow-x: auto; 
+  padding: 10px 0;
+}
 </style>
 
 <div class="card">
