@@ -8,13 +8,13 @@
   let cardData = [
     {
       image:
-        "https://media.istockphoto.com/id/185590965/photo/yellow-rubber-duck-for-bath-time.jpg?s=612x612&w=0&k=20&c=QoT-O5jbOugCgdQhLat15c0L9jCmRrSTiO9U50W_eQc=",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStpHpXYugLkFRTzIYH_h_N-kj71Xicw-4fFQ&s",
       title: "Coding",
       description:
         "I love solving problems and writing code to build cool things.",
     },
     {
-      image: "https://media.istockphoto.com/id/1460007178/photo/library-books-on-table-and-background-for-studying-learning-and-research-in-education-school.jpg?s=612x612&w=is&k=20&c=PvjSrEGbw3G64q74ccIQaJ9nEj9AzPwjvRo1cWFA3UU=",
+      image: "https://i0.wp.com/wearerestless.org/wp-content/uploads/2021/02/Reading-scaled.jpg?resize=1155%2C770&ssl=1",
       title: "Reading",
       description: "I love exploring new words with books",
     },
@@ -24,6 +24,11 @@
       description:
         "I enjoy exploring new cultures and learning from the world around me.",
     },
+    {
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnO8URXU2jdQ9YFNUDBaGpTFVh2yW8kOpug&s",
+      title: "Cooking",
+      description: "I love cooking and making new food",
+    }
   ];
 </script>
 
