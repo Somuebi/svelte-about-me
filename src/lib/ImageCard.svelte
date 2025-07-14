@@ -8,7 +8,7 @@
 
 <style>
   .card {
-    background-color: purple;
+    background-color: light-purple;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
@@ -29,13 +29,13 @@
 
   .card-title {
     font-size: 1.5em;
-    color: #333;
+    color: #f7f5f5;
     margin: 0 0 10px 0;
   }
 
   .card-description {
     font-size: 1em;
-    color: #666;
+    color: #f7f5f5;
     margin: 0;
   }
 </style>
